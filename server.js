@@ -32,7 +32,7 @@ app.post("/send", async (req, res) => {
 
         body: JSON.stringify({
 
-          chat_id: "YOUR_CHAT_ID",
+          chat_id: "5535768787",
 
           text: message
 
