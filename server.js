@@ -21,7 +21,7 @@ app.post("/send", async (req, res) => {
 
     const response = await fetch(
 
-      "https://api.telegram.org/botYOUR_BOT_TOKEN/sendMessage",
+      "https://api.telegram.org/bot8635496892:AAHXbZx7lwBllDR4YzwBGKucV7v8lrBofrc/sendMessage",
 
       {
         method: "POST",
